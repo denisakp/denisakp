@@ -15,8 +15,8 @@ Always trying to apply the concepts and the experience from Computer science in 
 ### Contact 📫
 You can find me on:
 * [Linkedin](https://www.linkedin.com/in/denis-akpagnonite-49868b171/)
-* [Email](mailto:hello@denisakp.me)
-* [Website](https://denisakp.me/)
+* [Email](mailto:denisakp@yaodem.com)
+* [Website](https://yaodem.com/)
 
 
 
@@ -25,7 +25,6 @@ You can find me on:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
