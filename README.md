@@ -1,12 +1,14 @@
 ### Hi there, it's me Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Passionate technophile skilled in back end development for different kind of services.
-Useful knowledge and experience with high level programming by using trending technologies.
+I'm that guy from Togo 🇹🇬 who design, build and maintain scalable and robust back-end apps using NodeJS, Pyhon, PHP and Golang.
 
-Currently working mostly with NodeJS to build RESTfull APIs based on micro-service architecture. CSS is my phobia 😢 but i have some experience with front-end technologies like ReactJS and VueJS.
-I can just create the project and make it work that's all 😅.
+I also have a lot of attraction with docker, Kubernetes, Ansible, Github and DigitalOcean for CI/CD stuffs.
 
-Always trying to apply the concepts and the experience from Computer science in softwares in order to solve specific problems and make life easier.
+#### PS: 
+* css is my phobia
+* I prefer using [MongoDB](https://www.mongodb.com/) rather than [MySQL](https://www.mysql.com/fr/) or [PostgreSQL](https://www.postgresql.org/) 😎. 
+* I don't have money for a [Mac](https://www.apple.com/fr/macbook-pro-14-and-16/) or [Windows license](https://www.microsoft.com/en-us/windows/get-windows-11) so I use [Ubuntu](https://ubuntu.com/) 😍
+
 
 <hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
