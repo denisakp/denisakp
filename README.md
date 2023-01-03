@@ -1,21 +1,24 @@
 ## Hi there, it's me Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I'm that guy from Togo 🇹🇬 who design, build, test and maintain scalable and robust back-end apps using NodeJS, Python, PHP and Golang.
+Currently, an engineering student in Data Science & Software Engineering field with more focus on software & data security, software tests, Cloud Infrastructure and DevOPS stuffs.
 
-When done, I use [Docker](https://docs.docker.com/) for containerization, [Kubernetes](https://kubernetes.io/docs/home/) for containers orchestration, [Github Actions](https://github.com/features/actions) to automate my workflows from ideas to production. But sometimes,  depending on some projects requirements, I could use [Jenkins]() for continuous integration and [Ansible]() for continuous deployment. 
+I love designing, builduing, testing and maintaining scalable and robust back-end apps using NodeJS, Python, PHP and Golang.
 
-And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refcode=1ab2e4cb3425&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) which is my favorite cloud provider where I deploy and host all my clients projects. You should try them if you want something up to date, with intuitive UI and most of all last tools and technology .
+When done, I use [Docker](https://docs.docker.com/) for containerization, [Kubernetes](https://kubernetes.io/docs/home/) for containers orchestration, [Github Actions](https://github.com/features/actions) to automate my workflows from ideas to production. But sometimes,  depending on some projects requirements, I could use [Jenkins](https://www.jenkins.io/) for continuous integration and [Ansible](https://www.ansible.com/) for continuous deployment. 
+
+And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refcode=1ab2e4cb3425&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) which is my favorite cloud provider where I deploy and host all my projects. You should try them if you want something up to date, with intuitive UI and most of all last tools and technology .
 
 #### PS: 
 * CSS is my phobia 😴
 * I prefer using [MongoDB](https://www.mongodb.com/) rather than [MySQL](https://www.mysql.com/fr/) or [PostgreSQL](https://www.postgresql.org/) 😎. 
-* I don't have money for a [Mac](https://www.apple.com/fr/macbook-pro-14-and-16/) or  [Windows license](https://www.microsoft.com/en-us/windows/get-windows-11) so I use [Ubuntu](https://ubuntu.com/) 😍
+* I'm currently working on a [MacBook Pro 14 M1](https://www.apple.com/fr/macbook-pro-14-and-16/)
+* I always test every thinng
 ---
 
-- 🌱 I’m currently studying to pass LPIC 101-500 exam
-- 🎯 I'm working hard to become a reference as DevOPS Engineer;
+- 🌱 I’m currently studying to pass ISC2 CC | Google Cloud Associate exams 
+- 🎯 I'm working hard to become a reference as DevSecOPS Engineer;
 - 👯 I’m looking to collaborate on any **open source** project as developer, maintainer or tester;
-- 💬 Ask me anything about Software programming, maintaing and testing;
+- 💬 Ask me anything about backend desiging, testing & maintaing;
 - ⚡ Fun fact: Ping me on Call of Duty mobile if you dare **NemesisFx** ;
 
 ---
@@ -36,22 +39,6 @@ And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refco
 ### Contact 📫
 You can find me on:
 * [Linkedin](https://www.linkedin.com/in/denis-akpagnonite-49868b171/)
-* [Email](mailto:denisakp@yaodem.com)
-* [Website](https://yaodem.com/)
-
-
-
-<!--
-**denisakp/denisakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Email](mailto:akpagnonited@outlook.com)
+* [Website](https://denisakp.com/)
 
