@@ -12,7 +12,7 @@ And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refco
 * CSS is my phobia 😴
 * I know a little bit about VueJS 😏
 * TypeScript is my preferred language 🤌
-* PostgreSQL👾 i smy preferred RDBS and MongoDB🤖 my preferred NosQL DB
+* PostgreSQL👾 is my preferred RDBS and MongoDB🤖 my preferred NosQL DB
 * I'm currently working on a [MacBook Pro 14 M1🫠](https://www.apple.com/fr/macbook-pro-14-and-16/)
 * I never push to the main branch 😎
 ---
