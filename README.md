@@ -1,18 +1,20 @@
-## Hi there, it's me Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hello world, I'm Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 Currently, an engineering student in Data Science & Software Engineering field with more focus on software & data security, software tests, Cloud Infrastructure and DevOPS stuffs.
 
-I love designing, builduing, testing and maintaining scalable and robust back-end apps using NodeJS, Python, PHP and Golang.
+I love designing, building, testing and maintaining scalable and robust back-end apps using NodeJS, Python, PHP and Golang.
 
-When done, I use [Docker](https://docs.docker.com/) for containerization, [Kubernetes](https://kubernetes.io/docs/home/) for containers orchestration, [Github Actions](https://github.com/features/actions) to automate my workflows from ideas to production. But sometimes,  depending on some projects requirements, I could use [Jenkins](https://www.jenkins.io/) for continuous integration and [Ansible](https://www.ansible.com/) for continuous deployment. 
+I use [Docker](https://docs.docker.com/) for containerization, [Kubernetes](https://kubernetes.io/docs/home/) for containers orchestration, [Github Actions](https://github.com/features/actions) to automate my workflows from ideas to production.
 
 And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refcode=1ab2e4cb3425&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) which is my favorite cloud provider where I deploy and host all my projects. You should try them if you want something up to date, with intuitive UI and most of all last tools and technology .
 
 #### PS: 
 * CSS is my phobia 😴
-* I prefer using [MongoDB](https://www.mongodb.com/) rather than [MySQL](https://www.mysql.com/fr/) or [PostgreSQL](https://www.postgresql.org/) 😎. 
-* I'm currently working on a [MacBook Pro 14 M1](https://www.apple.com/fr/macbook-pro-14-and-16/)
-* I always test every thinng
+* I know a little bit about VueJS 😏
+* TypeScript is my preferred language 🤌
+* PostgreSQL👾 i smy preferred RDBS and MongoDB🤖 my preferred NosQL DB
+* I'm currently working on a [MacBook Pro 14 M1🫠](https://www.apple.com/fr/macbook-pro-14-and-16/)
+* I never push to the main branch 😎
 ---
 
 - 🌱 I’m currently studying to pass ISC2 CC | Google Cloud Associate exams 
@@ -31,7 +33,16 @@ And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refco
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+---
+**My badges**
+<figure>
+  <a href="https://api.badgr.io/public/assertions/22JPp_tsRTazEW65LiJPWA?identity__email=akpagnonited%40outlook.com" target="_blank">
+     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/22JPp_tsRTazEW65LiJPWA/image">
+  </a>
+    <a href="https://www.credly.com/badges/6b64fa0a-e2bc-418a-acd9-d7ed71c635e8/public_url" target="_blank">
+     <img width="120px" height="120px" src="https://images.credly.com/size/220x220/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png">
+  </a>
+</figure>
 <hr/>
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
 
