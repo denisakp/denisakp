@@ -51,5 +51,5 @@ And finally, I should mention [DigitalOcean](https://www.digitalocean.com/?refco
 You can find me on:
 * [Linkedin](https://www.linkedin.com/in/denis-akpagnonite-49868b171/)
 * [Email](mailto:akpagnonited@outlook.com)
-* [Website](https://denisakp.com/)
+* [Website](https://denisakp.me/)
 
