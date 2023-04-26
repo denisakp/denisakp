@@ -1,26 +1,21 @@
-## Hello world, I'm Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hi there, I'm Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-Currently attending a Master of Engineering in Data science(Minor) and Software Engineering (Major), I am passionate about related subjects:
+Currently attending an engineering degree in Data Science and software Development field, I'm passionate about subjects related to:
 
-- Backend development & maintenance using Python (FastAPI), PHP (Laravel) & TypeScript (NestJS)
-- Cloud based IAM solutions for authentication & authorization systems in distributed architectures
-- DevOps philosophy
-- Cloud Infrastructure
-- API designing
-- Quality assurance
-
-My other favorite areas are:
-- Data science
-- Software security
-- Software testing
-
+- API designing, backend development and maintenance
+- Software security and testing
+- Cloud infrastructures and DevOps philosophy
+- Identity and Access Management (IAM)
+- SOC analysis and cybersecurity incident handling
+- Data Engineering
 
 #### PS: 
 * CSS is my phobia 😓 
-* Never push to main branch 😎 
+* I never push to main branch 😎 
+
 ---
-- 🌱 I’m currently studying to pass ISC2 CCSP | Google Cloud Associate certifications
-- 🎯 I'm working hard to become a reference as DevSecOPS Engineer
+- 🌱 I’m currently studying to pass (ISC)2 Certified in Cybersecurity (CC) on July 19
+- 🎯 I'm working hard to become a reference as DevOps Engineer
 - 👯 I’m looking foward to collaborate on any **open source** project as developer, maintainer or tester
 - 💬 Ask me anything about backend desiging, testing & maintaing
 - ⚡ Fun fact: My girl friend has a github account 🙈
