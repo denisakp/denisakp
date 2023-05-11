@@ -14,7 +14,7 @@ Currently attending an engineering degree in Data Science and software Developme
 * I never push to main branch 😎 
 
 ---
-- 🌱 I’m currently studying to pass (ISC)2 Certified in Cybersecurity (CC) on July 19
+- 🌱 I’m currently studying to pass (ISC)2 Certified in Cybersecurity (CC) on July 19 and Google cloud engineer associate on August 27
 - 🎯 I'm working hard to become a reference as DevOps Engineer
 - 👯 I’m looking foward to collaborate on any **open source** project as developer, maintainer or tester
 - 💬 Ask me anything about backend desiging, testing & maintaing
