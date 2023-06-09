@@ -4,17 +4,22 @@ Currently attending an engineering degree in Data Science and software Developme
 
 - API designing, backend development and maintenance
 - Software security and testing
-- Cloud infrastructures and DevOps philosophy
+- Cloud infrastructure and DevOps philosophy
 - Identity and Access Management (IAM)
 - SOC analysis and cybersecurity incident handling
-- Data Engineering
+- Application of Artificail Intelligence in Cybersecurity
 
 #### PS: 
 * CSS is my phobia 😓 
 * I never push to main branch 😎 
 
 ---
-- 🌱 I’m currently studying to pass (ISC)2 Certified in Cybersecurity (CC) on July 19 and Google cloud engineer associate on August 27
+- 🌱 For this 2023 I’m preparing to pass the following certifications:
+  - (ISC)2 Certified in Cybercecurity on July 19
+  - Google Cloud Engineer Associate on October 9
+  - HashiCorp Certified: Terraform Associate (003) on October 23
+  - Linux Foundation Certified System Administrator (LFCS) on November 25
+  - Certified Kubernetes Administrator on December 23
 - 🎯 I'm working hard to become a reference as DevOps Engineer
 - 👯 I’m looking foward to collaborate on any **open source** project as developer, maintainer or tester
 - 💬 Ask me anything about backend desiging, testing & maintaing
