@@ -59,17 +59,6 @@ Currently attending an engineering degree in Data Science and Software Developme
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ---
-**My badges & certifications**
-<figure>
-  <a href="https://api.badgr.io/public/assertions/22JPp_tsRTazEW65LiJPWA?identity__email=akpagnonited%40outlook.com" target="_blank">
-     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/22JPp_tsRTazEW65LiJPWA/image">
-  </a>
-    <a href="https://www.credly.com/badges/6b64fa0a-e2bc-418a-acd9-d7ed71c635e8/public_url" target="_blank">
-     <img width="120px" height="120px" src="https://images.credly.com/size/220x220/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png">
-  </a>
-</figure>
-
----
 :point_down: Do you want to collaborate? - If so don't hesitate to contact me 
 
 ### Contact 📫
