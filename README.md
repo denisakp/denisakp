@@ -1,15 +1,19 @@
-## Hi there, I'm Denis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-Currently attending an engineering degree in Data Science and Software Development field, I'm passionate about subjects related to:
+I'm Denis AKPAGNONITE, and I'm currently attending an Engineer's degree, Data Science and Software Development track, in Casablanca (Morocco).
+I'm passionate about subjects related to:
 
 - API designing, Backend development, and maintenance
 - Software security and testing
 - Cloud infrastructure and DevOps philosophy
 - Application of Artificial Intelligence in Cybersecurity
 
-#### PS: 
-* CSS is my phobia 😓 
-* I never push to the main branch 😎 
+#### Here are a few more things you need to know about me:: 
+*  I prefer Linux to Windows, although I currently work with a 2022 Mac Book Pro M1
+*  I'm more comfortable with the backend than the frontend
+*  Security; Scalability; Performance; Errors, Logs, and Tests Management; and Monitoring are my 7 Chakra points
+*  I hate people who push on the main branch  🙄
+*  I think the Light theme attracts bugs 🤣 
 
 ---
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
