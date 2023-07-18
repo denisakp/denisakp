@@ -17,7 +17,6 @@ I'm passionate about subjects related to:
 
 ---
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
-  - (ISC)2 Certified in Cybersecurity on July 19
   - AWS Cloud Practioner on September 8
   - HashiCorp Certified: Terraform Associate (003) on September 15
   - Linux Foundation Certified System Administrator (LFCS) on October 28
