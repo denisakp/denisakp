@@ -1,26 +1,20 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I'm Denis AKPAGNONITE, and I'm currently attending an Engineer's degree, Data Science and Software Development track, in Casablanca (Morocco).
-I'm passionate about subjects related to:
-
-- API designing, Backend development, and maintenance
-- Software security and testing
-- Cloud infrastructure and DevOps philosophy
-- Application of Artificial Intelligence in Cybersecurity
+I'm Denis AKPAGNONITE, and I'm currently attending an Engineer's degree in Data Science and Software Development. Passionate about Backend designing, developing, and maintaining; Cloud/DevOps, and Cybersecurity.
 
 #### Here are a few more things you need to know about me:: 
-*  I prefer Linux to Windows, although I currently work with a 2022 Mac Book Pro M1
-*  I'm more comfortable with the backend than the frontend
-*  Security; Scalability; Performance; Errors, Logs, and Tests Management; and Monitoring are my 7 Chakra points
-*  I hate people who push on the main branch  🙄
-*  I think the Light theme attracts bugs 🤣 
+* 🎓 Currently studying at ESTEM in Casablanca, Morocco, delving into data analysis, software development, and AI's real-world applications.
+* 👨‍💻 Backend enthusiast with expertise in Python, TypeScript, and PHP.
+*  💼 My focus areas: Security, Scalability, Performance, Errors, Logs, and Tests Management, and finally Monitoring
+*  🐧 Linux lover, though currently using a 2021 Mac Book Pro M1.
+*  😅 Light theme = bug magnet 🤣, and I'm not a fan of main branch pushers 🙄
 
 ---
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
-  - AWS Cloud Practioner on September 8
-  - HashiCorp Certified: Terraform Associate (003) on September 15
-  - Linux Foundation Certified System Administrator (LFCS) on October 28
-  - Certified Kubernetes Administrator on December 22
+  - AWS Cloud Practitioner (CLF-C02)
+  - Terraform Associate (003)
+  - Linux Foundation Certified System Administrator (LFCS),
+  - Certified Kubernetes Administrator (CKA),
 - 🎯 I'm working hard to become a reference as Cloud DevOps Engineer
 - 👯 I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
 - 💬 Ask me anything about backend design, testing & maintaining
@@ -29,7 +23,7 @@ I'm passionate about subjects related to:
 ---
 **Programming languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 **Frameworks**
 
