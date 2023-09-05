@@ -3,7 +3,7 @@
 My name is Denis AKPAGNONITE, and I'm pursuing an Engineer's degree in Data Science and Software Development. Passionate about Backend, Cloud infrastructure, DevOps philosophy, and Cybersecurity.
 
 #### Here are a few more things you need to know about me:: 
-* 🎓 Currently studying at ESTEM in Casablanca, Morocco, delving into data analysis, software development, and AI's real-world applications.
+* 🎓 Currently studying at ESTEM in Casablanca, Morocco, delving into data analysis, and software development.
 * 👨‍💻 Backend enthusiast with expertise in Python, TypeScript, and PHP.
 * 💼 My focus areas: Security, Scalability, Performance, Errors, Logs, and Tests Management, and finally Monitoring
 * 🐧 Linux lover, though currently using a 2021 Mac Book Pro M1.
