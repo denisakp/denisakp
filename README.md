@@ -1,13 +1,13 @@
 ## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I'm Denis AKPAGNONITE, and I'm currently attending an Engineer's degree in Data Science and Software Development. Passionate about Backend designing, developing, and maintaining; Cloud/DevOps, and Cybersecurity.
+My name is Denis AKPAGNONITE, and I'm pursuing an Engineer's degree in Data Science and Software Development. Passionate about Backend, Cloud infrastructure, DevOps philosophy, and Cybersecurity.
 
 #### Here are a few more things you need to know about me:: 
 * 🎓 Currently studying at ESTEM in Casablanca, Morocco, delving into data analysis, software development, and AI's real-world applications.
 * 👨‍💻 Backend enthusiast with expertise in Python, TypeScript, and PHP.
-*  💼 My focus areas: Security, Scalability, Performance, Errors, Logs, and Tests Management, and finally Monitoring
-*  🐧 Linux lover, though currently using a 2021 Mac Book Pro M1.
-*  😅 Light theme = bug magnet 🤣, and I'm not a fan of main branch pushers 🙄
+* 💼 My focus areas: Security, Scalability, Performance, Errors, Logs, and Tests Management, and finally Monitoring
+* 🐧 Linux lover, though currently using a 2021 Mac Book Pro M1.
+* 😅 Light theme = bug magnet 🤣, and I'm not a fan of main branch pushers 🙄
 
 ---
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
@@ -15,7 +15,7 @@ I'm Denis AKPAGNONITE, and I'm currently attending an Engineer's degree in Data 
   - Terraform Associate (003)
   - Linux Foundation Certified System Administrator (LFCS),
   - Certified Kubernetes Administrator (CKA),
-- 🎯 I'm working hard to become a reference as Cloud DevOps Engineer
+- 🎯 I'm working hard to become a reference as a Cloud DevOps Engineer
 - 👯 I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
 - 💬 Ask me anything about backend design, testing & maintaining
 - ⚡ Fun fact: Debugging is the art of fixing a bug you created, in the code you don't understand. 🙈
