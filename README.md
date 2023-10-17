@@ -13,8 +13,7 @@ My name is Denis AKPAGNONITE, and I'm pursuing an Engineer's degree in Data Scie
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
   - AWS Cloud Practitioner (CLF-C02)
   - Terraform Associate (003)
-  - Linux Foundation Certified System Administrator (LFCS),
-  - Certified Kubernetes Administrator (CKA),
+  - Certified Kubernetes Application developer (CKAD),
 - 🎯 I'm working hard to become a reference as a Cloud DevOps Engineer
 - 👯 I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
 - 💬 Ask me anything about backend design, testing & maintaining
