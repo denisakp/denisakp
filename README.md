@@ -1,19 +1,18 @@
 ## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Denis AKPAGNONITE, and I'm pursuing an Engineer's degree in Data Science and Software Development. Passionate about Backend, Cloud infrastructure, DevOps philosophy, and Cybersecurity.
-
+My name is Denis AKPAGNONITE, an Aspiring Cloud DevOps Engineer and Open Source Advocate, pursuing an Engineer's degree in Data Science and Software Development.
 #### Here are a few more things you need to know about me: 
 * 🎓 Currently studying at ESTEM in Casablanca, Morocco, delving into data analysis, and software development.
-* 👨‍💻 Backend enthusiast with expertise in Python, TypeScript, and PHP.
+* 👨‍💻 Backend enthusiast with expertise in Python, PHP, and TypeScript.
 * 💼 My focus areas: Security, Scalability, Performance, Errors, Logs, and Tests Management, and finally Monitoring
 * 🐧 Linux lover, though currently using a 2021 Mac Book Pro M1.
 * 😅 Light theme = bug magnet 🤣, and I'm not a fan of main branch pushers 🙄
 
 ---
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
-  - AWS Cloud Practitioner (CLF-C02)
-  - Terraform Associate (003)
-  - Certified Kubernetes Application developer (CKAD),
+  - [ ] AWS Cloud Practitioner (CLF-C02)
+  - [ ] Terraform Associate (003)
+  - [ ] Certified Kubernetes Application developer (CKAD),
 - 🎯 I'm working hard to become a reference as a Cloud DevOps Engineer
 - 👯 I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
 - 💬 Ask me anything about backend design, testing & maintaining
