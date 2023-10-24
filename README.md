@@ -12,7 +12,7 @@ My name is Denis AKPAGNONITE, an Aspiring Cloud DevOps Engineer and Open Source 
 - 🌱 For this 2023 I’m preparing to pass the following certifications:
   - [ ] AWS Cloud Practitioner (CLF-C02)
   - [ ] Terraform Associate (003)
-  - [ ] ISTQBL Certified Tester Foundation Level (CTFL)
+  - [ ] ISTQB Certified Tester Foundation Level (CTFL)
 - 🎯 I'm working hard to become a reference as a Cloud DevOps Engineer
 - 👯 I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
 - 💬 Ask me anything about backend design, testing & maintaining
