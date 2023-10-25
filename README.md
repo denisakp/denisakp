@@ -1,6 +1,6 @@
 ## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-My name is Denis AKPAGNONITE A.KA Nine October 😎​.
+My name is Denis AKPAGNONITE A.K.A Nine October 😎​.
 
 I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a degree in Data Science and Software Development. My passions include cloud/DevOps environments and IT automation. I'm also an Open Source Advocate, and my will to always improve has helped me to understand the ideas, methods, procedures, and developing technology in this ever changing area.
 
