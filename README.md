@@ -1,4 +1,4 @@
-## Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Nice to meet you 
 
 My name is Denis AKPAGNONITE A.K.A Nine October 😎​.
 
