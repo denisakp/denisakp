@@ -1,6 +1,6 @@
 ## Nice to meet you 
 
-My name is Denis AKPAGNONITE A.K.A Nine October 😎​.
+My name is Denis AKPAGNONITE (denisakp) A.K.A Nine October 😎​.
 
 I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a degree in Data Science and Software Development. My passions include cloud/DevOps environments and IT automation. I'm also an Open Source Advocate, and my will to always improve has helped me to understand the ideas, methods, procedures, and developing technology in this ever changing area.
 
@@ -13,7 +13,7 @@ I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a
 - Containers/Orchestration: Docker, Kubernetes
 - CI/CD Tools: GitHub Actions, GitLab CI/CD, Jenkins
 - Version Control Systems (VCS): GitHub, GitLab, BitBucket
-- GitOps: FluxCD
+- GitOps: ArgoCD
 - Static Code Analysis: SonarQube
 - Monitoring: Prometheus + Grafana, Elastic Search + LogStash + Kibana (ELK)
 - Programming Skills: Python, PHP, Bash, C/C++, GoLang
@@ -25,7 +25,7 @@ I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a
 
 📚 I am actively preparing to take the following certifications within the next months:
 
-- [ ] AWS Cloud Practitioner (CLF-C02)
+- [x] AWS Cloud Practitioner (CLF-C02)
 - [ ] Terraform Associate (003)
 - [ ] ISTQB Certified Tester Foundation Level
 - [ ] Certified Kubernetes Application Developer (CKAD)
