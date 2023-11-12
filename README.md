@@ -2,7 +2,7 @@
 
 My name is Denis AKPAGNONITE (denisakp) A.K.A Nine October 😎​.
 
-I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a degree in Data Science and Software Development. My passions include cloud/DevOps environments and IT automation. I'm also an Open Source Advocate, and my will to always improve has helped me to understand the ideas, methods, procedures, and developing technology in this ever changing area.
+I'm a graduating in software engineering currently based in Morocco. My passions include Cloud Native projects, DevOps, DevSecOps, GitOps, Infrastructure as Code, Software Tests and Quality Assurance, Open-source projects, and IT automation. My will to always improve has helped me to understand the ideas, methods, procedures, and developing technology in this ever changing area.
 
 ---
 
@@ -27,9 +27,9 @@ I am a final-year student at ESTEM in Casablanca, Morocco, where I am pursuing a
 
 - [x] AWS Cloud Practitioner (CLF-C02)
 - [ ] Terraform Associate (003)
-- [ ] ISTQB Certified Tester Foundation Level
 - [ ] Certified Kubernetes Application Developer (CKAD)
-- [ ] (ISC)2 Certified in Cyber Security
+- [ ] ISTQB Certified Tester Foundation Level
+- [ ] AWS Certified Solutions Architect – Associate
 
 ---
 
