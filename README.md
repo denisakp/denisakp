@@ -2,17 +2,12 @@
 apiVersion: v26
 kind: Human
 metadata:
-  name: Denis AKPAGNONITE
-  aliases:
-    - denisakp (😁​)
-    - nine_9_ocotber (🤠​)
-    - th3r007 (😈​) 
+  name: Denis D Yaovi AKPAGNONITE 
   gender: Male
   from: Togo
-  maried: false
+  relationshipStatus: single
   favQuote: Sic Parvis Magna - Sir Francis Drake
   currentOccupation: Software Engineering student
-  relationshipStatus: single
 spec:
   purpose: Evangelize about DevOps philosophy
   certifications:
@@ -38,8 +33,6 @@ spec:
         - SonarQube
         - OWASP
         - Trivy
-        - Open Policy Agent
-        - ConfTest
     - monitoring:
         - Prometheus + Grafana
         - ELK Stack
@@ -58,7 +51,7 @@ spec:
 ```
 ---
 
-​🤗​ You can ask me anything about DevOps, Distributed systems, Software Tests & QA
+​🤗​ You can ask me anything about DevOps, Distributed systems, Software Tests & QA, Cloud & High Performance Computing
 
 📢​ Join my Telegram channel [DevOps and Cloud Native](https://t.me/devops_cloud_native)
 
