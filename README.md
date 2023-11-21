@@ -18,19 +18,42 @@ spec:
   certifications:
     - AWS Certified Cloud Practitioner
   skills:
-    - cloud: [AWS, GCP, DigitalOcean]
-    - iac: [Terraform, Ansible, AWS Cloud Fromation]
-    - containersAndOrchestration: [Docker, Kubernetes]
-    - ciCd: [GitHub Actions, GitLab CI_CD, Jenkins ]
+    - cloud:
+        - AWS
+        - GCP
+        - DigitalOcean
+    - iac:
+        - Terraform
+        - AWS CloudFormation
+        - Ansible
+    - containersAndOrchestration:
+        - Docker
+        - Kubernetes
+    - ciCd:
+        - GitHub Actions
+        - GitLab CI_CD
+        - Jenkins
     - gitOps: ArgoCD
-    - secOps: [SonarQube, OWASP, Trivy, Open Policy Agent, ConfTest]
-    - monitoring: [Prometheus, Grafana, ELK]
-    - programmingSkills: [Python, PHP, Bash, C_C++, GoLang]
+    - secOps:
+        - SonarQube
+        - OWASP
+        - Trivy
+        - Open Policy Agent
+        - ConfTest
+    - monitoring:
+        - Prometheus + sGrafana
+        - ELK Stack
+    - programmingSkills:
+        - Python
+        - PHP
+        - Bash
+        - C_C++
+        - GoLang
   favorites:
-    animal: woof woof
+    animal: woof woof 🦮​
     number: 9
-    food: akoumé
-    drink: liha
+    food: akoumé 🍲​
+    drink: liha 🍻​
     emoji: 🙂​
 ```
 ---
