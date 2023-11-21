@@ -41,7 +41,7 @@ spec:
         - Open Policy Agent
         - ConfTest
     - monitoring:
-        - Prometheus + sGrafana
+        - Prometheus + Grafana
         - ELK Stack
     - programmingSkills:
         - Python
