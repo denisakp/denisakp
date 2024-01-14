@@ -7,9 +7,9 @@ metadata:
   from: Togo
   relationshipStatus: single
   favQuote: Sic Parvis Magna - Sir Francis Drake
-  currentOccupation: Software Engineering student
+  currentOccupation: DevOps Engineer Intern
 spec:
-  purpose: Evangelize about DevOps philosophy
+  purpose: Spread DevOps arround the world
   certifications:
     - AWS Certified Cloud Practitioner
   skills:
@@ -45,8 +45,6 @@ spec:
   favorites:
     animal: woof woof 🦮​
     number: 9
-    food: akoumé 🍲​
-    drink: liha 🍻​
     emoji: 🙂​
 ```
 ---
