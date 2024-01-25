@@ -7,6 +7,7 @@ metadata:
   from: Togo
   relationshipStatus: single
   favQuote: Sic Parvis Magna - Sir Francis Drake
+  favVerse: Habakkuk 2:2-3 ✞
   currentOccupation: DevOps Engineer Intern
 spec:
   purpose: Spread DevOps arround the world
