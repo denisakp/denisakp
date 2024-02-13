@@ -2,7 +2,7 @@
 apiVersion: v26
 kind: Human
 metadata:
-  name: Denis D Yaovi AKPAGNONITE 
+  name: Denis AKPAGNONITE 
   gender: Male
   from: Togo
   relationshipStatus: single
@@ -14,18 +14,27 @@ spec:
   certifications:
     - AWS Certified Cloud Practitioner
   skills:
-    cloud: ["AWS", "GCP", "DigitalOcean"]
-    iac: ["Terraform", "Cloud Deployment Manager", "AWS CloudFormation"]
+    cloud:
+      - AWS
+      - GCP
+      - DigitalOcean
+    iac:
+      - Terraform
     configumationManagement:
       - Ansible
     containersOrchestration:
       - Kubernetes 
-    ciCd: ["Gitlab CI/CD", "Jenkins", "GitHub Actions"] 
+    ciCd:
+      - GitHub Actions
+      - GitLab CI/CD
+      - Jenkins
     gitOps:
       - ArgoCD
-    secOps: ["SonarQube", "OWASP", "Trivy"]
-    monitoring: ["Prometheus", "Grafana", "ELK", "Open Telemetry"]
-    programmingSkills: ["Python", "TypeScript", "PHP", "Bash", "GoLang", "C/C++"
+    programmingSkills:
+      - Python
+      - C/C++
+      - GoLang
+      - Bash
 ```
 ---
 
