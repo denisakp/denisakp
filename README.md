@@ -7,34 +7,21 @@ metadata:
   from: Togo
   relationshipStatus: single
   favQuote: Sic Parvis Magna - Sir Francis Drake
-  favVerse: Habakkuk 2:2-3 ✞
   currentOccupation: DevOps Engineer Intern
 spec:
-  purpose: Spread DevOps arround the world
+  purpose: Spread DevOps culture arround the world
   certifications:
     - AWS Certified Cloud Practitioner
   skills:
-    cloud:
-      - AWS
-      - GCP
-      - DigitalOcean
-    iac:
-      - Terraform
-    configumationManagement:
+    - cloud: ["AWS", "GCP", "DigitalOcean"]
+    - iac: ["Terrafom", "OpenTofu"]
+    - configumationManagement:
       - Ansible
-    containersOrchestration:
+    - containersOrchestration:
       - Kubernetes 
-    ciCd:
-      - GitHub Actions
-      - GitLab CI/CD
-      - Jenkins
-    gitOps:
-      - ArgoCD
-    programmingSkills:
-      - Python
-      - C/C++
-      - GoLang
-      - Bash
+    - ciCd: ["GitHubAction", "GitLab CI/CD", "Jenkins"]
+    - gitOps: ["ArgoCD"]
+    - programmingSkills: ["Python", "TypeScript", "GoLang", "C"]
 ```
 ---
 
