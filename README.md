@@ -5,9 +5,8 @@ metadata:
   name: Denis AKPAGNONITE 
   gender: Male
   from: Togo
-  relationshipStatus: single
   favQuote: Sic Parvis Magna - Sir Francis Drake
-  currentOccupation: DevOps Engineer Intern
+  currentOccupation: Web Artisan & DevOps Engineer
 spec:
   purpose: Spread DevOps culture arround the world
   certifications:
@@ -21,7 +20,7 @@ spec:
       - Kubernetes 
     - ciCd: ["GitHubAction", "GitLab CI/CD", "Jenkins"]
     - gitOps: ["ArgoCD"]
-    - programmingSkills: ["Python", "TypeScript", "GoLang", "C"]
+    - programmingSkills: ["Python", "TypeScript", "PHP", "C"]
 ```
 ---
 
@@ -32,9 +31,6 @@ spec:
 🗞️​ Follow me on [Dev.To](https://dev.to/denisakp) | [Twitter](https://twitter.com/denis_Akp) | [LinkedIn](https://www.linkedin.com/in/denis-akpagnonite-49868b171)
 
 😏​ I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, or tester
-
-⚡ Fun fact - The `relationshipStatus` property in my metadata currently reads "single". If you're intersted in contributing to the ongoing development of my heart, 
-kindly open a GitHub issue. I'll promprtly review your proposal and consider merging our paths. 🙈 Let the love commits begin! 💘
 
 ---
 
