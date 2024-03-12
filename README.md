@@ -4,7 +4,7 @@
 
 **Open source is a core value for me**. I'm an **aspiring contributor** to open-source projects and always on the lookout for new ways to share my knowledge and support the community. I recently discovered the power of open source through my participation in the first cohort of the **All In Africa program by GitHub**. This experience ignited my passion for c**ontributing and being part of this collaborative movement**.
 
-**In a nutshell, I'm a passionate web developer, a DevOps/Cloud Native expert, and an enthusiastic advocate for open source**. I'm constantly seeking new challenges and eager to bring my skills and experience to your projects.
+**In a nutshell, I'm a passionate web developer, a DevOps/Cloud Native expert, and an enthusiastic advocate for open source**. I'm constantly seeking new challenges and eager to bring my skills and experience to design, build, develop, test, deploy and maintain real world projects. 
 
 ---
 
