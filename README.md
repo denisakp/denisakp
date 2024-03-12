@@ -1,26 +1,27 @@
+**More than just a web developer, I'm a digital craftsman**. I pour my expertise and passion into every project, building high-performing, elegant, and secure websites and web applications.
+
+**I'm also a true believer in DevOps and Cloud Native technologies**. I'm convinced these approaches dramatically improve the speed, reliability, and scalability of IT infrastructure.
+
+**Open source is a core value for me**. I'm an **aspiring contributor** to open-source projects and always on the lookout for new ways to share my knowledge and support the community. I recently discovered the power of open source through my participation in the first cohort of the **All In Africa program by GitHub**. This experience ignited my passion for c**ontributing and being part of this collaborative movement**.
+
+**In a nutshell, I'm a passionate web developer, a DevOps/Cloud Native expert, and an enthusiastic advocate for open source**. I'm constantly seeking new challenges and eager to bring my skills and experience to your projects.
+
+---
+
 ```yaml
-apiVersion: v26
+apiVersion: v27
 kind: Human
 metadata:
   name: Denis AKPAGNONITE 
   gender: Male
-  from: Togo
-  favQuote: Sic Parvis Magna - Sir Francis Drake
-  currentOccupation: Web Artisan & DevOps Engineer
 spec:
-  purpose: Spread DevOps culture arround the world
-  certifications:
-    - AWS Certified Cloud Practitioner
+  certifications: ["AWS Certified Cloud Practitioner"]
   skills:
-    - cloud: ["AWS", "GCP", "DigitalOcean"]
-    - iac: ["Terrafom", "OpenTofu"]
-    - configumationManagement:
-      - Ansible
-    - containersOrchestration:
-      - Kubernetes 
-    - ciCd: ["GitHubAction", "GitLab CI/CD", "Jenkins"]
-    - gitOps: ["ArgoCD"]
-    - programmingSkills: ["Python", "TypeScript", "PHP", "C"]
+    cloud: ["AWS", "GCP", "DigitalOcean"]
+    devops: ["Kubernetes", "CI/CD", "GitOps", "Helm" ]
+    iac: ["Terraform", "Ansible"]
+    languages: ["Python", "TypeScript", "PHP", "C/C++", "Golang"]
+    frameworks: ["FastAPI", "NestJS", "Laravel", "Gin Framework"]
 ```
 ---
 
