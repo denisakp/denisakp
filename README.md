@@ -1,4 +1,4 @@
-**More than just a web developer, I'm a digital craftsman**. I pour my expertise and passion into every project, building high-performing, elegant, and secure websites and web applications.
+**More than just a Software Engineer, I'm a digital craftsman**. I pour my expertise and passion into every project, building high-performing, elegant, and secure softwares.
 
 **I'm also a true believer in DevOps and Cloud Native technologies**. I'm convinced these approaches dramatically improve the speed, reliability, and scalability of IT infrastructure.
 
