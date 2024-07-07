@@ -1,12 +1,6 @@
-I'm Denis Yaovi
+I'm Denis Yaovi, 
 
-I excel in designing, developing, and maintaining secure, scalable, and high-performance softwares, with a deep interrest for the Cloud Native ecosystem and enthusiasm for contributing to open source softwares. 
-
----
-- I am a software engineer:  I design, build, test, deploy, and maintain applications using open source technologies to efficiently handle a variety of challenges.
-- I am a Linux systems operator: using Docker, and Kubernetes, I can scale and orchestrate the software I craft
-- I am a tech support: Docker helps me to reproduce issues
-- I am a technical writer: I write clear docs for projects, to enable users and fellow developers understand how to use or maintain a software
+A passionate Software Engineer dedicated to crafting secure, scalable, and high-performance software solutions. My area of expertise is using open source technologies and the Cloud Native ecosystem to promote efficiency and innovation.
 
 ---
 
