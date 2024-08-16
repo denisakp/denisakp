@@ -2,52 +2,8 @@ I'm Denis Yaovi,
 
 A passionate Software Engineer dedicated to crafting secure, scalable, and high-performance software solutions. My area of expertise is using open source technologies and the Cloud Native ecosystem to promote efficiency and innovation.
 
----
+I'm particularly interested in distributed systems, where the challenges of data consistency, fault tolerance, scalability, and security push the boundaries of modern software engineering. I thrive on designing solutions that not only meet these challenges but also leverage the power of distributed computing to create resilient, high-performance applications that can scale seamlessly.
 
-```yaml
-apiVersion: v110010 110111
-kind: Human
-metadata:
-  gender: Male
-  status:
-    engaged: no
-    girlfriend: no
-    rich: loading
-spec:
-  skills:
-    cloud:
-    - AWS
-    - DigitalOcean
-    containers:
-    - Docker
-    - Podman
-    - Kubernetes
-    devops:
-    - GitLab CI
-    - Helm
-    - Jenkins
-    monitoring:
-    - Grafana
-    - Prometheus
-    - ELK
-    programmingLanguages:
-    - Python
-    - Go
-    - C
-    - PHP
-    - TypeScript
-    - Java
-    webFrameworks:
-    - FastAPI
-    - NestJS
-    - Laravel
-    - Gin Web framework
-    - SpringBoot
-    databases:
-    - PostgreSQL
-    - MongoDB
-    - Redis    
-```
 ---
 
 ​🤗​ You can ask me anything about Cloud Native ecosystem, Distributed systems, Software Tests & QA, Cloud computing & High Performance Computing
