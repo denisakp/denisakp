@@ -6,13 +6,9 @@ I'm particularly interested in distributed systems, where the challenges of data
 
 ---
 
-​🤗​ You can ask me anything about Cloud Native ecosystem, Distributed systems, Software Tests & QA, Cloud computing & High Performance Computing
+🗞️​ Follow me on [Dev.To](https://dev.to/denisakp)
 
-📢​ Join my Telegram channel [DevOps and Cloud Native](https://t.me/devops_cloud_native) | I'm trying to build a Cloud Native community
-
-🗞️​ Follow me on [Dev.To](https://dev.to/denisakp) | [Twitter](https://twitter.com/denis_Akp) | [LinkedIn](https://www.linkedin.com/in/denis-akpagnonite-49868b171)
-
-😏​ I’m looking forward to collaborating on any **open-source** project as a developer, maintainer, tester, or technical writer
+​🤗​ You can ask me anything about Cloud Native ecosystem, Distributed systems, Cloud computing & High Performance Computing
 
 ---
 
@@ -22,6 +18,4 @@ I am excited to lend my abilities to your team. If my qualifications match your 
 
 ### Contacts 📫
 You can find me on:
-* [Linkedin](https://www.linkedin.com/in/denis-akpagnonite-49868b171/)
-* [Email](mailto:akpagnonited@gmail.com)
 * [Twitter](https://twitter.com/denis_Akp)
