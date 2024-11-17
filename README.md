@@ -1,7 +1,6 @@
 I'm **Denis Yaovi**, 
 
-A Software Engineer driven by a passion for DevOps Philosophy, Cloud Native technologies, and distributed systems. I specialize in leveraging open-source tools to tackle challenges in data consistency, fault tolerance, and security. 
-My goal? Crafting resilient software that scales effortlessly.
+A Software Engineer driven by a passion for DevOps, Cloud Native technologies, and distributed systems. I specialize in leveraging open-source tools to address challenges in data consistency, fault tolerance, and security. My goal? Crafting resilient, scalable software.
 
 ---
 
