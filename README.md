@@ -1,19 +1,26 @@
-I'm **Denis**, 
+### Hi there! 👋 I'm **Denis Yaovi**  
 
-A Software Engineer driven by a passion for DevOps, Cloud Native technologies, and distributed systems. I specialize in leveraging open-source tools to address challenges in data consistency, fault tolerance, and security. My goal? Crafting resilient, scalable software.
+A Software Engineer passionate about **Cloud Computing**, **Cloud Native technologies**, and **Distributed Systems**, I focus on solving everyday challenges using open-source tools.  
 
----
-
-🗞️​ Follow me on [Dev.To](https://dev.to/denisakp)
-
-​🧐 You can ask me anything about Cloud Native ecosystem, Distributed systems, Cloud computing & High Performance Computing
+🌟 My mission: crafting **resilient**, **scalable**, and **high-performance** software while ensuring **data consistency**, **fault tolerance**, and **security**.  
 
 ---
 
-I am excited to lend my abilities to your team. If my qualifications match your requirements, I would appreciate the opportunity to discuss how I might make an impact when it come to . Please contact me at your earliest convenience.
+🔑 Certifications:  
+- [Google Cloud Digital Leader](https://www.credly.com/badges/7bc1ca8f-86f9-400b-8dad-5fbfe1a7ce3f/public_url)  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1a490efa-6214-427a-964a-eca1e6898685/public_url)  
+- [FinOps Certified Practitioner](https://www.credly.com/badges/c1ebfa20-4f6d-474f-ac33-726ca3b70679/public_url)  
 
-:point_down:
+💡 I’m also an active contributor to open-source projects, which I find incredibly rewarding for learning and collaborating with like-minded enthusiasts across the globe.  
 
-### Contacts 📫
-You can find me on:
-* [Twitter](https://twitter.com/denis_Akp)
+---
+
+### Contact 📬  
+
+You can find me here:  
+🗞️​ [Dev.To](https://dev.to/denisakp)  
+🐦​ [Twitter](https://twitter.com/denis_Akp)  
+
+Feel free to reach out if you want to discuss **Cloud Native ecosystems**, **Distributed Systems**, or **High-Performance Computing**.  
+
+---
