@@ -20,6 +20,7 @@ Currently, I work as a DevOps & Backend Engineer for [Mon Ami Albert](https://mo
 
 ## 🎓 IT Certifications  
 
+🎓 **GitHub Foundation**  
 🎓 **Google Cloud Digital Leader**  
 🎓 **AWS Certified Cloud Practitioner**  
 🎓 **FinOps Certified Practitioner**  
