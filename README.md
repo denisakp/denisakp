@@ -6,7 +6,7 @@ I am a Software Engineer with a deep passion for Cloud-Native architectures, Kub
 
 ## Current position
 
-Currently, I work as a DevOps & Backend Engineer for [Mon Ami Albert](https://monamialbert.com) , where I:
+Currently, I work as a Software Engineer for [Mon Ami Albert](https://monamialbert.com) , where I:
 - Develop and maintain NestJS microservices, ensuring scalability and clean code principles
 - Spearhead DevSecOps strategies, optimizing infrastructure to support thousands of users
 - Implement GitLab CI/CD pipelines for seamless deployments and improved developer productivity
@@ -20,8 +20,9 @@ Currently, I work as a DevOps & Backend Engineer for [Mon Ami Albert](https://mo
 
 ## 🎓 IT Certifications  
 
+🎓 **Kubernetes and Cloud Native Associate (KCNA)**  
 🎓 **GitHub Foundation**  
-🎓 **Google Cloud Digital Leader**  
+🎓 **Google Cloud Digital Leader**    
 🎓 **AWS Certified Cloud Practitioner**  
 🎓 **FinOps Certified Practitioner**  
 🎓 **ALX - AWS Cloud Computing Program** 
