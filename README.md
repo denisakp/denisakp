@@ -1,17 +1,26 @@
 # Hi there! 👋 I'm **Denis Yaovi**  
 
-🚀 **Software Engineer👨🏽‍💻 | Cloud Native Enthusiast ⎈ | Open-Source Contributor**  
+**Software Engineer👨🏽‍💻 | Cloud Native Enthusiast ⎈ | Open-Source Contributor⛓️‍💥**  
 
-I am a Software Engineer with a deep passion for Cloud-Native architectures, Kubernetes, and Distributed Systems. Over the years, I have gained expertise in designing and building scalable, resilient, and secure applications by leveraging algorithms, automation, and DevSecOps best practices.
+Software engineer with 5+ years specializing in distributed architectures and Cloud Native ecosystems. I help teams ship features faster while optimizing development and operational costs.
 
-## Current position
+## 🎯 My approach
 
-Currently, I work as a Software Engineer for [Mon Ami Albert](https://monamialbert.com) , where I:
-- Develop and maintain NestJS microservices, ensuring scalability and clean code principles
-- Spearhead DevSecOps strategies, optimizing infrastructure to support thousands of users
-- Implement GitLab CI/CD pipelines for seamless deployments and improved developer productivity
-- Integrate OpenTelemetry to enhance observability and performance monitoring
-- Manage containerized workloads using Kubernetes
+Pragmatic DevSecOps that improves delivery pipelines without slowing teams down. I focus on reducing time to market, cutting unnecessary costs, and enabling confident releases in controlled environments.
+
+## 🚀 Current position
+
+Currently working with [TalentFindr](https://www.talentfindr.ai) as a backend and DevSecOps consultant, where I:
+- Design and maintain Golang backend systems
+- Manage PostgreSQL databases for performance and reliability
+- Automate workflows with n8n for operational efficiency
+- Lead the DevSecOps initiatives: CI/CD, security, and infrastructure as code
+- Improve observability and traceability across the stack
+
+## 🌱 Philosophy
+
+I believe in pragmatic engineering, clean architecture, and continuous improvement. Whether it's writing code, automating workflows, or improving developer experience, I enjoy building systems that are both scalable and maintainable.
+Always learning. Always building. 🚀
 
 ## 🛠️ Tech Stack & Skills  
 
