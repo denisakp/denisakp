@@ -4,9 +4,9 @@ I'm Denis, a software engineer, public speaker, and open-source contributor pass
 
 With over 5 years of experience in distributed architectures and cloud-native ecosystems, I've helped teams optimize their development workflows and reduce operational costs. I create technical content, including blog posts, conference talks, and open-source tools—that bridges the gap between theory and practice, making complex distributed systems concepts accessible to developers worldwide.
 
-I believe in pragmatic engineering, clean architecture, and continuous improvement. Whether it's designing scalable microservices, implementing secure CI/CD pipelines, or sharing knowledge with the community, I'm driven by building systems that are both resilient and maintainable. Always learning.
+I believe in pragmatic engineering, clean architecture, and continuous improvement. Whether it's designing scalable microservices, implementing secure CI/CD pipelines, or sharing knowledge with the community, I'm driven by building systems that are both resilient and maintainable. 
 
-Always building. Always sharing.
+Always learning. Always building. Always sharing.
 
 ## 📬 Let's Connect!  
 
